@@ -8,7 +8,7 @@ This is the code that we take in Nvidia bootcamp the Link to the competetion not
 * [Climate Competition](https://github.com/rehamessameltagoury/Nvidia-Bootcamp/blob/main/Climate%20Lab/Competition.ipynb)
 
 
-My Teamates:
+My Teammates:
 * Ahmed Magdy
 * Amira Mossa
 * Amr Eid
