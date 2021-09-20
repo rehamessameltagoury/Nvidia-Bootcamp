@@ -9,7 +9,7 @@ This is the code that we take in Nvidia bootcamp the Link to the competetion not
 
 
 My Teammates:
-* [Ahmed Magdy]
+* Ahmed Magdy
 * [Amira Mossa](https://github.com/AmiraMosa)
-* [Amr Eid]
+* Amr Eid
 * [Mahmoud Taha](https://github.com/MahmoudMTaha)
